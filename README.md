@@ -25,7 +25,7 @@ Something more related to Computer Science:
 - Currently I am designing a web-based application called UWatch, which enables a group of friends to find an appropriate movie that matches everybody's taste
 
 <h2> Some Tools I Have Used and Learned</h2>
-<p align="left" style="white-space: nowrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -34,4 +34,4 @@ Something more related to Computer Science:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
           
-</p>
+</div>
