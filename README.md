@@ -26,12 +26,16 @@ Having worked with ETH research institutes (**WSL** and **SLF**), I developed a 
 ## 🚀 Projects
 
 ### 🌍 Earth & Environmental Sciences
-* **Intersat:** A map-first prototype for exploring Swiss landscapes through swisstopo imagery using an AI chatbot.
-* **Ocean Visualizer:** Web application to interactively visualize changing sea surface temperatures (SSTs) for El Niño and La Niña specific regions. *(Repository going live soon)*
-* **Ecological Systems Analysis:** MATLAB-based project to determine and visualize stability development in plant ecosystems under climate impacts.
+- **Intersat:** A map-first prototype for exploring Swiss landscapes through swisstopo imagery using an AI chatbot.
+
+- **Ocean Visualizer:** Web application to interactively visualize changing sea surface temperatures (SSTs) for El Niño and La Niña specific regions. *(Repository going live soon)*
+
+- **Ecological Systems Analysis:** MATLAB-based project to determine and visualize stability development in plant ecosystems under climate impacts.
+
 
 ### 💻 Computer Science
-* **UWatch:** A web-based application currently under development that enables groups of friends to find an appropriate movie matching everyone's taste.
+- **UWatch:** A web-based application currently under development that enables groups of friends to find an appropriate movie matching everyone's taste.
+
 
 ---
 
@@ -44,5 +48,6 @@ Having worked with ETH research institutes (**WSL** and **SLF**), I developed a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
 </p>
