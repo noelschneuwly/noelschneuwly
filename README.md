@@ -2,13 +2,13 @@
 
 ![Swiss Alps Panorama](images/background.jpg)
 
-Welcome to my profile! I’m passionate about computer science and computational science applications in the natural sciences, with a strong emphasis on earth and environmental systems.
+Welcome to my profile! I’m passionate about computer science and computational science applications in the natural sciences as well as GIS, with a strong emphasis on earth and environmental systems.
 
 ---
 
 ## 🌲 About & Interests
 
-Having worked with ETH research institutes (**WSL** and **SLF**), I developed a core passion for designing software and computational tools specifically for earth science applications.
+Having worked with ETH research institutes (**WSL** and **SLF**), I developed a core passion for designing software and computational tools specifically for earth science applications. Furthermore I worked as a GIS engineer for ESRI Switzerland where I developed RAG-based geospatial applications. 
 
 ### Connect with me:
 
