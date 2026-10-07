@@ -1,37 +1,48 @@
-<h1>I am Noël. I am glad you found your way here!</h1>
+# Hi, I'm Noël 👋
 
-<h2> My interests </h2>
+![Swiss Alps Panorama](images/background.heic)
 
-My core interests circle around computer science and computational science applications in the sciences, especially earth sciences. Having worked for ETH research insitutes (WSL and SLF) before, I developed a core passion for designing earth science applications. Feel free to connect:
+Welcome to my profile! I’m passionate about computer science and computational science applications in the natural sciences, with a strong emphasis on earth and environmental systems.
+
+---
+
+## 🌲 About & Interests
+
+Having worked with ETH research institutes (**WSL** and **SLF**), I developed a core passion for designing software and computational tools specifically for earth science applications.
+
+### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/no%C3%ABl-schneuwly-2a05612b5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/></a>
+  <a href="https://www.linkedin.com/in/no%C3%ABl-schneuwly-2a05612b5/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="mailto:noel.schneuwly@uzh.ch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="40" height="40" />
+  </a>
 </p>
 
-If you want to contact me, don't hesitate to reach out via email
+---
+
+## 🚀 Projects
+
+### 🌍 Earth & Environmental Sciences
+* **Intersat:** A map-first prototype for exploring Swiss landscapes through swisstopo imagery using an AI chatbot.
+* **Ocean Visualizer:** Web application to interactively visualize changing sea surface temperatures (SSTs) for El Niño and La Niña specific regions. *(Repository going live soon)*
+* **Ecological Systems Analysis:** MATLAB-based project to determine and visualize stability development in plant ecosystems under climate impacts.
+
+### 💻 Computer Science
+* **UWatch:** A web-based application currently under development that enables groups of friends to find an appropriate movie matching everyone's taste.
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="left">
-<a href="mailto:noel.schneuwly@uzh.ch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="email" width="45" height="45"/></a>
-</p>
-
-<h2> Some information about my latest projects </h2>
-
-- Ocean Visualizer: Web application to interactively visualize changing sea surface temperatures (SST's) for el Niño and la Niña specific regions. This repository is not yet public, but will go live soon
-
-- Ecological Systems Analysis: MATLAB based project to determine and visualize stability development in plant ecosystems under climate impacts
-
-Something more related to Computer Science:
-
-- Currently I am designing a web-based application called UWatch, which enables a group of friends to find an appropriate movie that matches everybody's taste
-
-<h2> Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
 </p>
