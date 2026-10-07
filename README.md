@@ -1,6 +1,6 @@
 # Hi, I'm Noël 👋
 
-![Swiss Alps Panorama](images/background.heic)
+![Swiss Alps Panorama](images/background.jpg)
 
 Welcome to my profile! I’m passionate about computer science and computational science applications in the natural sciences, with a strong emphasis on earth and environmental systems.
 
